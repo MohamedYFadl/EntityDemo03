@@ -189,7 +189,7 @@ namespace EntityDemo03
                 //if(northwind.Products.Local.Any(x=>x.UnitsInStock==0)) //Not Request from Database  
                 //    Console.WriteLine("There are out of stock products");
                 //else
-                //    Console.WriteLine("There aren't out of stock products");
+                //    Console.WriteLine("There aren't out of stock products"); 
                 #endregion
             }
 
